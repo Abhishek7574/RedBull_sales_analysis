@@ -1,5 +1,8 @@
 # Red Bull Account Sales Analysis
 
+![Red Bull Energy Drinks](images/redbull.jpg)
+
+
 ## Project Overview
 
 This project focuses on analyzing the performance of Red Bull sales across various on-premise accounts over a five-year period. The primary objective is to identify key trends, understand account performance, and uncover opportunities for sales growth.
