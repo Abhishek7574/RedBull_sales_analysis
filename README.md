@@ -1,6 +1,6 @@
 # Red Bull Account Sales Analysis
 
-![Red Bull Energy Drinks](images/redbull.jpg)
+![Red Bull Energy Drinks]([images/redbull.jpg](https://github.com/Abhishek7574/RedBull_sales_analysis/blob/00ed7192254cff9e2db01867e9300f8a3e9bb59e/redbull.jpg))
 
 
 ## Project Overview
